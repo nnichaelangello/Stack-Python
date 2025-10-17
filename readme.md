@@ -260,8 +260,6 @@ Berikut adalah penjelasan operasi dasar yang diimplementasikan untuk kedua pende
 Berikut adalah contoh aplikasi stack untuk memproses 10 digit NIM (Nomor Induk Mahasiswa).
 
 ```python
-from stack import StackArray, StackList
-
 def main():
     # Inisialisasi stack
     S_array = StackArray(10)
